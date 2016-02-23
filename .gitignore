@@ -1,0 +1,5 @@
+# Latex related
+*.aux
+*.toc
+*.log
+*.pdf
