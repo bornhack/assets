@@ -1,0 +1,154 @@
+\ProvidesPackage{bornhack}[2016/06/09 version 0.1 by Alexander Færøy]
+\NeedsTeXFormat{LaTeX2e}
+
+\RequirePackage[draft,nomargin,inline,marginclue]{fixme}
+\RequirePackage[utf8x]{inputenc}
+\RequirePackage{ucs}
+\RequirePackage[pdftex]{hyperref}
+\RequirePackage[usenames,dvipsnames]{color}
+\RequirePackage{listings}
+\RequirePackage{enumerate}
+\RequirePackage{ulem}
+\RequirePackage{graphicx}
+\RequirePackage{microtype}
+\RequirePackage{inconsolata}
+
+%%
+%% the `fixme` package.
+%%
+\newcommand{\TODO}[1]{\fixme[inline]{#1}}
+
+%%
+%% Links
+%%
+\hypersetup{
+    urlcolor=black,
+    colorlinks=true,
+    citecolor=black,
+    linkcolor=black,
+    pdfauthor={BornHack 2016}
+}
+
+\newcommand{\link}[2]{\textbf{\href{#1}{#2}}}
+\newcommand{\mailto}[1]{\link{mailto:{#1}}{\nolinkurl{{#1}}}}
+
+%%
+%% Listings
+%%
+\lstset{
+    numbers=left,
+    numberstyle=\scriptsize\color{Gray},
+    basicstyle=\scriptsize\ttfamily,
+    keywordstyle=\scriptsize\bfseries,
+    identifierstyle=\scriptsize\color{black},
+    commentstyle=\scriptsize\color{Gray},
+    stringstyle=\scriptsize\color{Gray},
+    breaklines=true,
+    showstringspaces=false
+}
+
+\lstnewenvironment{inputsource}[1]{\lstset{language={#1}}}{}
+
+\newcommand{\inputsourcefile}[2]{\lstinputlisting[language={#2}]{#1}}
+
+%%
+%% Laziness
+%%
+\renewcommand{\t}[1]{\texttt{#1}}
+\renewcommand{\i}[1]{\textit{#1}}
+\renewcommand{\b}[1]{\textbf{#1}}
+\newcommand{\e}[1]{\emph{#1}}
+
+%%
+%% Use inconsolata as default font.
+%%
+\renewcommand{\familydefault}{\ttdefault}
+
+%%
+%% Hex and binary.
+%%
+\newcommand{\hexify}[1]{0x\nhex{2}{#1}}
+
+%%
+%% Chapter style.
+%%
+\makechapterstyle{bornhack}{%
+  \renewcommand{\chapterheadstart}{\hrule height 2pt\bigskip}
+
+  \renewcommand{\chapnumfont}{\normalfont\huge}
+  \renewcommand{\chaptitlefont}{\normalfont\huge\bfseries}
+
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\printchapternum}{\chapnumfont\hexify{\thechapter}}
+  \renewcommand{\afterchapternum}{ }
+  \renewcommand{\afterchaptertitle}{\par\nobreak\bigskip\hrule height 2pt\vskip\afterchapskip}
+}
+\chapterstyle{bornhack}
+
+%%
+%% Section style.
+%%
+\newcommand{\bornhacksection}[1]{%
+    \noindent%
+    \parbox[t]{\textwidth}{%
+        \hrule height 1.5pt\vskip0.6em
+        \Large\bfseries #1
+        \vskip0.6em\hrule height 1.5pt%
+    }
+}
+
+\setsecheadstyle{\bornhacksection}
+\setsecnumformat{}
+
+%%
+%% Indentation and spacing of paragraphs.
+%%
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+
+%%
+%% Header
+%%
+\makepagestyle{bornhack}
+
+\makeevenfoot{bornhack}{}{}{\hexify{\thepage}}
+\makeoddfoot{bornhack}{\hexify{\thepage}}{}{}
+
+\makeatletter
+
+\makepsmarks{bornhack}{\def\chaptermark##1{\markboth{}{}}}
+
+\makeatother
+
+\pagestyle{bornhack}
+
+\aliaspagestyle{chapter}{bornhack}
+
+%%
+%% Margin
+%%
+\setulmarginsandblock{2cm}{2cm}{*}
+\setlrmarginsandblock{2cm}{2cm}{*}
+\checkandfixthelayout
+
+%%
+%% Table of Contents.
+%%
+\renewcommand{\contentsname}{Table of Contents}
+
+\renewcommand{\chapternumberline}[1]{\hexify{#1}\ }
+\renewcommand{\cftchapterformatpnum}[1]{\hexify{#1}}
+
+\renewcommand{\cftsectionformatpnum}[1]{\hexify{#1}}
+
+\renewcommand{\cftdotsep}{\cftnodots}
+
+\maxtocdepth{chapter}
+
+%%
+%% Hex.
+%%
+\include{binhex}
+
+%% vim: set ft=latex tw=80 :
