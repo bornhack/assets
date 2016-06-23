@@ -1,0 +1,14 @@
+This year a new event will take place in Denmark. The event is named BornHack and will take place starting the 27th of August and end on the 3rd of September on the island of Bornholm. It is a 7 days outdoor technology tent camping festival and it is the first of its kind in Denmark.
+
+We are looking for talented speakers who are interested in talking about topics like security, networking, programming, distributed systems, privacy, and how these technologies relate to society.
+
+We are also looking for organisations who are willing to sponsor BornHack. This event will without doubt attract some of the greatest minds in the security, hacking and technology community from all over Europe. If you are interested in sponsoring BornHack, you should have a look at our sponsor page and reach out to us via the contact information on that page.
+
+We have already been featured on the major Danish IT news site Version2, TV2/Bornholm and P4/Bornholm (Radio). We expect to start releasing weekly news about speakers and workshops starting next week on our website as well as on Twitter.
+
+The ticket shop opened up on the 1st of June and we are already selling new tickets every day. For information about the event itself, please have a look at bornhack.dk - feel free to reach out to me directly as well if you have any questions.
+
+Happy hacking, and be seeing you on Bornholm!
+
+On behalf of the BornHack team,
+Alex.
