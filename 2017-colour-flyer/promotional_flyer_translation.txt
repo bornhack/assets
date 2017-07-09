@@ -1,0 +1,11 @@
+Background
+BornHack is a 7 days hacker festival on Bornholm. The idea for BornHack was originally developed during a smaller Danish IT summer camp in Zealand.
+The organizers are working Danish and international IT jobs and good part of the groups knowledge and expertise has been gathered by participating in minor and major hacker camps throughout Europe. 
+Thus, BornHack was started to create a natural Danish and Noric meeting place for hackers and others with an interest in technology and community.
+The festival format supports great opportunities to socialize and the lovely rural countryside of Bornholm lends the ideal backdrop for the event.
+
+
+Purpose
+Denmark needs a non-profit event, where hackers, makers and other nordic people with an interest in new technology, development and community, can meet to share, create, teach and learn.
+This kind of event, with more focus on socializing and several days duration, is already popular in other countries, but only exists on a much smaller scale in Denmark.
+The attendees expand their network, discuss new technologies and the resulting challenges and possibilities in depth and take a world of inspiration home to their friends, work and companies.
