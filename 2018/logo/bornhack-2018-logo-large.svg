@@ -14,7 +14,7 @@
    height="400"
    viewBox="0 0 350 400"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bornhack-2018-logo-large.svg">
+   sodipodi:docname="bornhack-2017-logo-large.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -24,14 +24,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="877"
+     inkscape:window-width="1916"
+     inkscape:window-height="1156"
      id="namedview4337"
      showgrid="false"
-     inkscape:zoom="1.7175"
-     inkscape:cx="253.34387"
-     inkscape:cy="201.82043"
-     inkscape:window-x="0"
+     inkscape:zoom="2.4289118"
+     inkscape:cx="114.97322"
+     inkscape:cy="178.35033"
+     inkscape:window-x="4"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5205" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -130,5 +130,28 @@
            x="-163.02765"
            y="130.42212" /></flowRegion><flowPara
          id="flowPara4360"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.16941452px;font-family:Hack;-inkscape-font-specification:Hack">16/8-23/8 2018 2018</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.16941452px;font-family:Hack;-inkscape-font-specification:Hack">16/8-23/8 2018 2018</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4354-3"
+       style="font-style:normal;font-weight:normal;font-size:19.08016014px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(34.477192,193.71733)"><flowRegion
+         id="flowRegion4356-6"><rect
+           id="rect4358-7"
+           width="204.41046"
+           height="31.105934"
+           x="-2.7027824"
+           y="-5.7275209" /></flowRegion><flowPara
+         id="flowPara4360-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Hack;-inkscape-font-specification:Hack">scale it</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="171.39192"
+       y="306.1871"
+       id="text3355"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3357"
+         x="171.39192"
+         y="306.1871" /></text>
+  </g>
 </svg>
