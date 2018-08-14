@@ -14,7 +14,10 @@
    height="400"
    viewBox="0 0 350 400"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="bornhack-2019-logo-large.svg">
+   sodipodi:docname="bornhack-2019-logo-large.svg"
+   inkscape:export-filename="/home/valberg/code/bornhack/assets/2019/logo/bornhack-2019-logo-large.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -122,7 +125,7 @@
        xml:space="preserve"
        id="flowRoot4354"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.47700401,0,0,0.47700401,175.3533,212.72693)"><flowRegion
+       transform="matrix(0.47700401,0,0,0.47700401,189.10944,212.72693)"><flowRegion
          id="flowRegion4356"><rect
            id="rect4358"
            width="428.52985"
@@ -130,5 +133,5 @@
            x="-163.02765"
            y="130.42212" /></flowRegion><flowPara
          id="flowPara4360"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.16941452px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack">13/8-20/8 2019 2018</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.16941452px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack">8/8-15/8 2019 2018</flowPara></flowRoot>  </g>
 </svg>
