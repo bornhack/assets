@@ -13,7 +13,7 @@
    width="350"
    height="400"
    viewBox="0 0 350 400"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="bornhack-2019-logo-large.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="877"
+     inkscape:window-height="1025"
      id="namedview4337"
      showgrid="false"
      inkscape:zoom="1.7175"
-     inkscape:cx="253.34387"
-     inkscape:cy="201.82043"
+     inkscape:cx="81.87371"
+     inkscape:cy="193.08681"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5205" />
   <metadata
@@ -60,7 +60,7 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="-595.58606"
      y="18.180925"
      id="text5110"><tspan
@@ -121,8 +121,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4354"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.47700401,0,0,0.47700401,175.3533,210.72685)"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.47700401,0,0,0.47700401,175.3533,212.72693)"><flowRegion
          id="flowRegion4356"><rect
            id="rect4358"
            width="428.52985"
@@ -130,5 +130,5 @@
            x="-163.02765"
            y="130.42212" /></flowRegion><flowPara
          id="flowPara4360"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.16941452px;font-family:Hack;-inkscape-font-specification:Hack">13/8-20/8 2019 2018</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.16941452px;line-height:1.25;font-family:Hack;-inkscape-font-specification:Hack">13/8-20/8 2019 2018</flowPara></flowRoot>  </g>
 </svg>
