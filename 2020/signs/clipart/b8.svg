@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="746.50665"
+   width="687.39197"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   viewBox="0 0 644.42999 699.84998"
+   sodipodi:docname="b8.svg"
+   id="svg8761">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:document-units="px"
+     inkscape:pageopacity="0.0"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-top="0"
+     inkscape:cy="348.15244"
+     inkscape:cx="368.2672"
+     inkscape:current-layer="g10138"
+     borderopacity="1.0"
+     showgrid="false"
+     inkscape:window-x="0"
+     inkscape:zoom="0.98994949"
+     inkscape:window-maximized="1"
+     inkscape:window-height="1015"
+     pagecolor="#ffffff"
+     fit-margin-left="0"
+     inkscape:window-y="0"
+     inkscape:pageshadow="2"
+     bordercolor="#666666"
+     id="base" />
+  <g
+     transform="translate(-32.071,-67.291)"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1"
+     id="layer1">
+    <g
+       id="g4933">
+      <g
+         transform="translate(-559.25,-75.91)"
+         id="g9312">
+        <g
+           transform="translate(543.94,73.352)"
+           id="g10138">
+          <circle
+             transform="matrix(0.8145,0,0,0.8145,306.18,-71.219)"
+             r="322.14285"
+             cy="568.79077"
+             cx="77.85714"
+             style="fill:none;stroke:#ff0000;stroke-width:110.5"
+             id="path8784-6" />
+        </g>
+      </g>
+      <g
+         transform="translate(780)"
+         id="g4928">
+        <path
+           d="m -542.84,217.09 c -5.0366,0 -9.0938,4.0571 -9.0938,9.0938 v 36.5 h -40.281 c -9.7467,0 -12.406,2.8705 -12.406,7.1562 0,3.5433 -2.7411,36.232 -3.8438,49.281 h -10 c -1.7618,0 -3.1562,1.6477 -3.1562,3.6875 v 16 7.4688 24.094 h -2.0312 v -1.25 h -4.3438 v 1.25 16.625 1.5625 2.5312 h 3.9062 v -2.5312 h 0.4375 9.2812 84.594 240.41 v -104.38 -18.5 -39.5 c 0,-5.0366 -4.0571,-9.0938 -9.0938,-9.0938 h -244.38 z m -50,57.031 h 40 v 45 h -45.312 l 5.3125,-45 z"
+           inkscape:connector-curvature="0"
+           transform="translate(32.071,67.291)"
+           style="fill:#000000"
+           id="rect4901" />
+        <circle
+           r="40.714287"
+           cy="388.77402"
+           cx="-557.85712"
+           transform="matrix(0.93388,0,0,0.93388,-4.8117,92.995)"
+           style="fill:#000000;stroke:#ffffff;stroke-width:5"
+           id="path4921" />
+        <circle
+           r="40.714287"
+           cy="388.77402"
+           cx="-557.85712"
+           transform="matrix(0.93388,0,0,0.93388,195.19,92.995)"
+           style="fill:#000000;stroke:#ffffff;stroke-width:5"
+           id="path4923" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>B8</dc:title>
+        <dc:date>2012-11-25T03:24:45</dc:date>
+        <dc:description>Road, Sign, France</dc:description>
+        <dc:source>https://openclipart.org/detail/173261/b8-by-desmoric-173261</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Desmoric</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>France</rdf:li>
+            <rdf:li>Road</rdf:li>
+            <rdf:li>Sign</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
