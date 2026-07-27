@@ -5,5 +5,4 @@
 *.fdb_latexmk
 *.synctex.gz
 *.fls
-
-.DS_STORE
+.DS_Store
